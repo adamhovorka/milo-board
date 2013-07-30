@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.github.com/jquery/jquery-color/master/jquery.color.js">redirected</a>.</body></html>

@@ -1,0 +1,54 @@
+html {
+	min-height: 100%;
+	position: relative;
+}
+
+body {
+	height: 100%;
+}
+
+#milo-main {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+	z-index: -1;
+}
+
+table {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 40pt;
+	table-layout: fixed;
+}
+
+td#top {
+	height: 48pt;
+	text-align: left;
+	padding: 0 20pt;
+	border-bottom: 3pt solid #eee8d5;
+} body.dark td#top { border-color: #073642; }
+td#top.back {
+	text-align: center;
+}
+
+td#top div#speak {
+	float: right;
+	margin: 0;
+	padding: 0 0 0 20pt;
+	border-left: 3pt solid #073642;
+}
+
+.hotkey {
+	float: right;
+	margin: -5% 30% 0 -30%;
+	padding: 0;
+	display: inline-block;
+	font-size: 12pt;
+	color: #586e75;
+} .hotkey:before { content: "[" }
+.hotkey:after { content: "]" }

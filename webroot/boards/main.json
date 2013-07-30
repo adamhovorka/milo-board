@@ -1,0 +1,34 @@
+{ "content": [ [
+	{ "label": "A", "speak": "a" },
+	{ "label": "B", "speak": "b" },
+	{ "label": "C", "speak": "c" },
+	{ "label": "D", "speak": "d" }
+], [
+	{ "label": "E", "speak": "e" },
+	{ "label": "F", "speak": "f" },
+	{ "label": "G", "speak": "g" },
+	{ "label": "H", "speak": "h" }
+], [
+	{ "label": "I", "speak": "i" },
+	{ "label": "J", "speak": "j" },
+	{ "label": "K", "speak": "k" },
+	{ "label": "L", "speak": "l" },
+	{ "label": "M", "speak": "m" },
+	{ "label": "N", "speak": "n" }
+], [
+	{ "label": "O", "speak": "o" },
+	{ "label": "P", "speak": "p" },
+	{ "label": "QU", "speak": "qu" },
+	{ "label": "R", "speak": "r" },
+	{ "label": "S", "speak": "s" },
+	{ "label": "T", "speak": "t" }
+], [
+	{ "label": "U", "speak": "u" },
+	{ "label": "V", "speak": "v" },
+	{ "label": "W", "speak": "w" },
+	{ "label": "X", "speak": "x" },
+	{ "label": "Y", "speak": "y" },
+	{ "label": "Z", "speak": "z" },
+	{ "label": "" },
+	{ "label": "Quick", "menu": "quick" }
+] ], "top": true }

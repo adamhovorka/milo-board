@@ -1,0 +1,14 @@
+{ "content": [ [
+	{ "label": "Yes",	"speak": "yes" },
+	{ "label": "Thank you",	"speak": "thenk you" },
+	{ "label": "Hang on",	"speak": "heng on" },
+	{ "label": "Sure",	"speak": "sure" }
+], [
+	{ "label": "Maybe",	"speak": "maybe" },
+	{ "label": "Sorry",	"speak": "sorree" },
+	{ "label": "Hey!",	"speak": "hey" }
+], [
+	{ "label": "No",	"speak": "no" },
+	{ "label": "I don't know",	"speak": "i don't know" },
+	{ "label": "What?",	"speak": "what?" }
+] ], "top": false, "back": true }
